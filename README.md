@@ -20,7 +20,7 @@ Response:
 }
 
 2. Verify OTP
-3. 
+
 POST
 http://localhost:8080/api/auth/verify-otp?email=example@gmail.com&otp=123456
 
